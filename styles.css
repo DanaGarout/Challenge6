@@ -1,0 +1,53 @@
+body{
+    background-color: #605C4E;
+    font-family: 'Mochiy Pop One', sans-serif;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    color: #363020;
+}
+.wrapper{
+    margin: auto;
+    padding: 10px 20px;
+    height: 600px;
+    width: 500px;
+    
+}
+.container-1{
+    background: #A49966;
+    padding: 15px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.unit-input{
+    width: 117px;
+    height: 83px;
+    border-radius: 10px;
+    border: none;
+    background-color: wheat;
+    color: #363020;
+}
+.convert-btn{
+    margin-top: 10px;
+    width: 125px;
+    height: 41px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Mochiy Pop One', sans-serif;
+    color:#363020;
+    background-color: #C7C7A6;
+}
+.container-2{
+    background-color: #C7C7A6;
+    padding: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.parts{
+    background-color: #eaffda;
+    border-radius: 10px;
+}
+.part-p{
+    margin-bottom: 15px;
+}
