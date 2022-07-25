@@ -27,6 +27,9 @@ body{
     border: none;
     background-color: wheat;
     color: #363020;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: large;
+    text-align: center;
 }
 .convert-btn{
     margin-top: 10px;
